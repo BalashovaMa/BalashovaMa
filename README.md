@@ -14,5 +14,7 @@
 * Bootstrap
 ----
 ### Projects:
+* [Random-jokes](https://rolling-scopes-school.github.io/balashovama-JSFEPRESCHOOL/random-jokes/)
 * [cssMemSlider](https://balashovama.github.io/cssMemSlider/cssMemSlider/index.html)
 * [Eco-sounds](https://balashovama.github.io/eco-sounds/)
+* [Tic-tac-toe](https://rolling-scopes-school.github.io/balashovama-JSFEPRESCHOOL/tic-tac-toe/)
