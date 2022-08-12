@@ -1,4 +1,18 @@
-- 👋 Hi, I’m @BalashovaMa
-- My CV https://balashovama.github.io/rsschool-cv/
-- CodeWars: 
-- ![image](https://user-images.githubusercontent.com/95683688/184083356-674d0f27-d370-44fa-a138-a9bbf78af653.png)
+### Frontend-developer 
+----
+* 👋 Hi, I’m @BalashovaMa
+* My CV https://balashovama.github.io/rsschool-cv/
+----
+### CodeWars:
+![CodeWars](https://www.codewars.com/users/BalashovaMa/badges/large)
+----
+### Skills
+* HTML / CSS
+* SCSS / Sass 
+* Javascript
+* Git
+* Bootstrap
+----
+### Projects:
+* [cssMemSlider](https://balashovama.github.io/cssMemSlider/cssMemSlider/index.html)
+* [Eco-sounds](https://balashovama.github.io/eco-sounds/)
