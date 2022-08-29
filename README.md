@@ -18,4 +18,4 @@
 * [cssMemSlider](https://balashovama.github.io/cssMemSlider/cssMemSlider/index.html)
 * [Eco-sounds](https://balashovama.github.io/eco-sounds/)
 * [Tic-tac-toe](https://rolling-scopes-school.github.io/balashovama-JSFEPRESCHOOL/tic-tac-toe/)
-* [Uber](https://balashovama.github.io/Uber/)
+* [Uber](https://BalashovaMa.github.io/Uber/src/index.html)
