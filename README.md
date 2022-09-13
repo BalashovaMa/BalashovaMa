@@ -12,6 +12,8 @@
 * Javascript
 * Git
 * Bootstrap
+* Figma
+* Gulp
 ----
 ### Projects:
 * [Random-jokes](https://rolling-scopes-school.github.io/balashovama-JSFEPRESCHOOL/random-jokes/)
