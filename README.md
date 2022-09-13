@@ -4,7 +4,7 @@
 * My CV https://balashovama.github.io/cv/
 ----
 ### CodeWars:
-![CodeWars](https://www.codewars.com/users/BalashovaMa/badges/large)
+[![CodeWars](https://www.codewars.com/users/BalashovaMa/badges/large)](https://www.codewars.com/users/rsschool_3e83de27377543f0/badges/micro)
 ----
 ### Skills
 * HTML / CSS
