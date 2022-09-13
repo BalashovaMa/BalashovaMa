@@ -1,7 +1,7 @@
 ### Frontend-developer 
 ----
 * 👋 Hi, I’m @BalashovaMa
-* My CV https://balashovama.github.io/rsschool-cv/
+* My CV https://balashovama.github.io/cv/
 ----
 ### CodeWars:
 ![CodeWars](https://www.codewars.com/users/BalashovaMa/badges/large)
