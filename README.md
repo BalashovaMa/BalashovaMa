@@ -15,6 +15,7 @@
 * Figma
 * Gulp
 * React
+* Webpack
 ----
 ### Projects:
 * [Random-jokes](https://rolling-scopes-school.github.io/balashovama-JSFEPRESCHOOL/random-jokes/)
