@@ -18,6 +18,7 @@
 * Webpack
 ----
 ### Projects:
+* [Shelter](https://rolling-scopes-school.github.io/balashovama-JSFE2022Q1/pages/main/)
 * [Random-jokes](https://rolling-scopes-school.github.io/balashovama-JSFEPRESCHOOL/random-jokes/)
 * [cssMemSlider](https://balashovama.github.io/cssMemSlider/cssMemSlider/index.html)
 * [Eco-sounds](https://balashovama.github.io/eco-sounds/)
