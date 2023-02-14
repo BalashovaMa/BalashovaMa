@@ -18,6 +18,7 @@
 * Webpack
 ----
 ### Projects:
+* [Pulse](https://balashovama.github.io/Pulse/src)
 * [Marvel](https://balashovama.github.io/MarvelInformation/)
 * [Food](https://63998d51d4946a30c13743c9--dashing-toffee-9f179c.netlify.app/)
 * [Shelter](https://rolling-scopes-school.github.io/balashovama-JSFE2022Q1/pages/main/)
