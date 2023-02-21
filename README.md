@@ -16,6 +16,7 @@
 * Gulp
 * React
 * Webpack
+* Jquery
 ----
 ### Projects:
 * [Pulse](https://balashovama.github.io/Pulse/dist)
