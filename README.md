@@ -23,6 +23,7 @@
 * [Marvel](https://balashovama.github.io/MarvelInformation/)
 * [Food](https://63998d51d4946a30c13743c9--dashing-toffee-9f179c.netlify.app/)
 * [Shelter](https://rolling-scopes-school.github.io/balashovama-JSFE2022Q1/pages/main/)
+* [Shopping List](https://balashovama.github.io/Shopping-List)
 * [Random-jokes](https://rolling-scopes-school.github.io/balashovama-JSFEPRESCHOOL/random-jokes/)
 * [cssMemSlider](https://balashovama.github.io/cssMemSlider/cssMemSlider/index.html)
 * [Eco-sounds](https://balashovama.github.io/eco-sounds/)
