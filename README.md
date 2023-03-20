@@ -29,4 +29,4 @@
 * [Eco-sounds](https://balashovama.github.io/eco-sounds/)
 * [Tic-tac-toe](https://rolling-scopes-school.github.io/balashovama-JSFEPRESCHOOL/tic-tac-toe/)
 * [Uber](https://balashovama.github.io/Uber/src/index.html)
-* [Employees](https://employees-v1.herokuapp.com/)
+* [Employees](https://employees-9f64.onrender.com/)
