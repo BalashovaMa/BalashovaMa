@@ -17,6 +17,7 @@
 * React
 * Webpack
 * Jquery
+* PHP (basic)
 ----
 ### Projects:
 * [Pulse](https://balashovama.github.io/Pulse/dist)
