@@ -20,6 +20,7 @@
 * PHP (basic)
 ----
 ### Projects:
+* [Portfolio](https://balashovama.github.io/MyPortfolio/src)
 * [Pulse](https://balashovama.github.io/Pulse/dist)
 * [Marvel (React)](https://balashovama.github.io/MarvelInformation/)
 * [Food](https://63998d51d4946a30c13743c9--dashing-toffee-9f179c.netlify.app/)
