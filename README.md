@@ -32,3 +32,5 @@
 * [Tic-tac-toe](https://rolling-scopes-school.github.io/balashovama-JSFEPRESCHOOL/tic-tac-toe/)
 * [Uber](https://balashovama.github.io/Uber/src/index.html)
 * [Employees](https://employees-9f64.onrender.com/)
+ - [Weather-CLI]() **Node.js**  
+
