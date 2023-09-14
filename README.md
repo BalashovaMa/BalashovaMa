@@ -1,4 +1,4 @@
-### Frontend-developer 
+### Web-developer 
 ----
 * 👋 Hi, I’m @BalashovaMa
 * My CV https://balashovama.github.io/cv/
@@ -18,8 +18,12 @@
 * Webpack
 * Jquery
 * PHP (basic)
+* Typescript (basic)
+* NodeJS
+* Express
 ----
 ### Projects:
+* [Courses store](https://github.com/BalashovaMa/Courses-store-NodeJS-Express-) **Node.js + Express** 
 * [Portfolio](https://balashovama.github.io/MyPortfolio/src)
 * [Pulse](https://balashovama.github.io/Pulse/dist)
 * [Marvel (React)](https://balashovama.github.io/MarvelInformation/)
@@ -32,5 +36,6 @@
 * [Tic-tac-toe](https://rolling-scopes-school.github.io/balashovama-JSFEPRESCHOOL/tic-tac-toe/)
 * [Uber](https://balashovama.github.io/Uber/src/index.html)
 * [Employees](https://employees-9f64.onrender.com/)
-* [Weather-CLI](https://github.com/BalashovaMa/weather-cli) **Node.js**  
+* [Weather-CLI](https://github.com/BalashovaMa/weather-cli) **Node.js**
+ 
 
