@@ -26,7 +26,7 @@
 * [Courses store](https://github.com/BalashovaMa/Courses-store-NodeJS-Express-) **Node.js + Express** 
 * [Portfolio](https://balashovama.github.io/MyPortfolio/src)
 * [Pulse](https://balashovama.github.io/Pulse/dist)
-* [Marvel (React)](https://balashovama.github.io/MarvelInformation/)
+* [Marvel](https://balashovama.github.io/MarvelInformation/) **React**
 * [Food](https://63998d51d4946a30c13743c9--dashing-toffee-9f179c.netlify.app/)
 * [Shelter](https://rolling-scopes-school.github.io/balashovama-JSFE2022Q1/pages/main/)
 * [Shopping List (Jquery)](https://balashovama.github.io/Shopping-List)
